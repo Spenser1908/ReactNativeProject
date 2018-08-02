@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

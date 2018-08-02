@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/spenserhardin/Documents/learning/React/ReactNativeProject/node_modules/react-native/React/Base/RCTPerformanceLogger.h
